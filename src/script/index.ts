@@ -17,4 +17,4 @@ permissions and limitations under the License.
 export * as Model from './model';
 export * as Request from './request';
 export * as Result from './result';
-export { Gs2ScriptRestClient } from './rest';
+export default { Gs2ScriptRestClient } from './rest';
